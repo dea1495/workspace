@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;09-05/src/(default package)&apos;&#x0D;&#x0A;- Original project: &apos;09-01&apos;&#x0D;&#x0A;- Destination element: &apos;09-05/src/(default package)&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     TempScale.java&#x0D;&#x0A;     Temperature.java" description="Copy compilation units" destination="=09-05/src&lt;" element1="/src&lt;{TempScale.java" element2="/src&lt;{Temperature.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1311912801406" units="2" version="1.0"/>
+</session>

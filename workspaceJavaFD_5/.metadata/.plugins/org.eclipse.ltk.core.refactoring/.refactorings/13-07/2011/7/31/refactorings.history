@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.burdbrain.frames&apos; to &apos;13-10/src&apos;&#x0D;&#x0A;- Original project: &apos;13-07&apos;&#x0D;&#x0A;- Destination element: &apos;13-10/src&apos;&#x0D;&#x0A;- Original element: &apos;13-07/src/com.burdbrain.frames&apos;" description="Copy package" destination="=13-10/src" element1="/src&lt;com.burdbrain.frames" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1311917263561" version="1.0"/>
+</session>

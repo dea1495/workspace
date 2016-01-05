@@ -1,0 +1,10 @@
+import java.util.Scanner;
+public class ReadInputLine {
+	private static Scanner keyboard;
+
+	public static void main(String[] args) {
+        keyboard = new Scanner(System.in);
+        int inputNumber = keyboard.nextInt();
+        System.out.println(inputNumber);
+	}
+}
